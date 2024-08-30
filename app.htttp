@@ -1,0 +1,2 @@
+GET http://localhost:3000/       //For home page
+GET http://localhost:3000/about  //For about page
